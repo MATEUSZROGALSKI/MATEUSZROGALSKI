@@ -41,6 +41,4 @@ I’ve been coding since I was 10 years old (back in 2000!) and built my first w
 I wrote my first line of code before Google was mainstream!  
 
 ---
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MATEUSZROGALSKI.MATEUSZROGALSKI)  
-*Last updated: {TIME}*  
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MATEUSZROGALSKI.visitor-badge)
